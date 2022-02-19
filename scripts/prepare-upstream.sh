@@ -11,12 +11,14 @@ easylist=(
   "https://easylist.to/easylist/fanboy-annoyance.txt"
   "https://easylist.to/easylist/easyprivacy.txt"
   "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"
+  "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
 )
 
 hosts=(
   "https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/full/hosts.txt"
   "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts"
   "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt"
+  "https://adaway.org/hosts.txt"
 )
 
 strict_hosts=(
