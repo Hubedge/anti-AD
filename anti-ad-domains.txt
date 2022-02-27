@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20220223021704
+#VER=20220228001410
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=74827
+#TOTAL_LINES=74837
 cda.0-shiny.com
 00-gov.cn
 0001.best
@@ -15271,6 +15271,7 @@ cdnfile.xyz
 cdnfjz.com
 cdngain.com
 c.cdngeek.com
+pushapi.cdnimg.org
 cdnjke.com
 ad.cdnjm.cn
 cdnjsp.wang
@@ -17351,7 +17352,10 @@ cmnfybfjn.xyz
 intent.cmo.com.au
 cmoneba.ru
 log1.cmpassport.com
-log.cmpassport.com
+cmpassport.com
+config.cmpassport.com
+www.cmpassport.com
+wap.cmpassport.com
 cmpgns.net
 mms.cmpsky.com
 cmptch.com
@@ -17386,6 +17390,7 @@ ad-api.cnblogs.com
 cnbole.net
 stat.cncenter.cz
 cnco.me
+js.cncrk.com
 cncsdn.cn
 cncy8.com
 ms.cnczjy.com
@@ -19190,7 +19195,6 @@ creative-serving.com
 ads.creative-serving.com
 stats.creativeboom.com
 creativecdn.com
-creativecommons.org
 creativedisplayformat.com
 creativeformatsnetwork.com
 creativesumo.com
@@ -21090,9 +21094,6 @@ df9377.com
 m.dfanf.com
 dfasxm.biz
 dfb79196408612f1.com
-dfscdn.dfcfw.com
-empic.dfcfw.com
-gbfek.dfcfw.com
 dfchoingay.com
 dfcwg.com
 f5.dfcwg.com
@@ -21238,6 +21239,9 @@ dsp.dianru.com
 static.dianru.com
 www.dianru.com
 dianrui.com
+api.dianshige.com
+api.dianshihome.com
+cdn.dianshihome.com
 dianshihuanping.cn
 pic1.dianshu119.com
 dianwenwang.com
@@ -41861,7 +41865,6 @@ m.meinianguoji.com
 meinlist.com
 tk.meinprospekt.de
 trackingapi.meinprospekt.de
-www.meipian7.cn
 meiqia.com
 eco-api.meiqia.com
 meirensuan.xyz
@@ -48859,7 +48862,6 @@ parcrescentimportantly.com
 parding.info
 pardnergam.com
 pardompus.ru
-go.pardot.com
 pi.pardot.com
 parentful.club
 discover.parexel.com
@@ -65018,6 +65020,7 @@ ads.cdn.tvb.com
 tvbxcg6.com
 logger.tvchosun.com
 measure.ic.tver.jp
+pushapi.tvfuwu.com
 stat.tvigle.ru
 ssc.tvland.com
 tvlipevrj.com
@@ -69886,6 +69889,9 @@ m.wnxcg.com
 wnys1.com
 wo-x.cn
 js.wo-x.cn
+hmrz.wo.cn
+id.mail.wo.cn
+mdn.open.wo.cn
 bjdnserror1.wo.com.cn
 bjdnserror2.wo.com.cn
 bjdnserror3.wo.com.cn
@@ -70155,7 +70161,9 @@ woryuc.com
 wos.lv
 shence.wosai-inc.com
 woshiyunying.com
+auth.wosms.cn
 wosork.com
+opencloud.wostore.cn
 wotto.cn
 wotufeiye.com
 woujoami.com
@@ -74101,6 +74109,8 @@ zigaokj.top
 zigzag.vn
 ziig.com.cn
 zijaipse.com
+ads5-normal-hl.zijieapi.com
+ads3-normal-hl.zijieapi.com
 zijuejueta.com
 zikroarg.com
 zim-zim-zam.com

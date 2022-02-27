@@ -1,8 +1,8 @@
 !Title: anti-AD for AdGuard
-!Version: 20220222181705063114731
+!Version: 20220227161410828845505
 !Homepage: https://anti-ad.net/
 !!!note! If you are using "AdGuard Home", please load https://anti-ad.net/easylist.txt
-!Total lines: 63394
+!Total lines: 63401
 @@||5471782.fls.doubleclick.net^
 @@||a.adwolf.ru^
 @@||a.sellpoint.net^
@@ -12255,6 +12255,7 @@
 ||cdnfjz.com^
 ||cdngain.com^
 ||c.cdngeek.com^
+||pushapi.cdnimg.org^
 ||cdnjke.com^
 ||ad.cdnjm.cn^
 ||cdnjsp.wang^
@@ -14182,8 +14183,7 @@
 ||cmnfybfjn.xyz^
 ||intent.cmo.com.au^
 ||cmoneba.ru^
-||log1.cmpassport.com^
-||log.cmpassport.com^
+||cmpassport.com^
 ||cmpgns.net^
 ||mms.cmpsky.com^
 ||cmptch.com^
@@ -14208,6 +14208,7 @@
 ||cnbole.net^
 ||stat.cncenter.cz^
 ||cnco.me^
+||js.cncrk.com^
 ||cncsdn.cn^
 ||cncy8.com^
 ||ms.cnczjy.com^
@@ -15504,7 +15505,6 @@
 ||creative-serving.com^
 ||stats.creativeboom.com^
 ||creativecdn.com^
-||creativecommons.org^
 ||creativedisplayformat.com^
 ||creativeformatsnetwork.com^
 ||creativesumo.com^
@@ -17065,9 +17065,6 @@
 ||m.dfanf.com^
 ||dfasxm.biz^
 ||dfb79196408612f1.com^
-||dfscdn.dfcfw.com^
-||empic.dfcfw.com^
-||gbfek.dfcfw.com^
 ||dfchoingay.com^
 ||dfcwg.com^
 ||dfdjilnzqgtow.com^
@@ -17194,6 +17191,9 @@
 ||dianru.cn^
 ||dianru.com^
 ||dianrui.com^
+||api.dianshige.com^
+||api.dianshihome.com^
+||cdn.dianshihome.com^
 ||dianshihuanping.cn^
 ||pic1.dianshu119.com^
 ||dianwenwang.com^
@@ -40755,7 +40755,6 @@
 ||parding.info^
 ||pardnergam.com^
 ||pardompus.ru^
-||go.pardot.com^
 ||pi.pardot.com^
 ||parentful.club^
 ||discover.parexel.com^
@@ -54868,6 +54867,7 @@
 ||tvbxcg6.com^
 ||logger.tvchosun.com^
 ||measure.ic.tver.jp^
+||pushapi.tvfuwu.com^
 ||stat.tvigle.ru^
 ||ssc.tvland.com^
 ||tvlipevrj.com^
@@ -59108,6 +59108,9 @@
 ||m.wnxcg.com^
 ||wnys1.com^
 ||wo-x.cn^
+||hmrz.wo.cn^
+||id.mail.wo.cn^
+||mdn.open.wo.cn^
 ||wo19.top^
 ||wo1990.com^
 ||wo685.com^
@@ -59292,7 +59295,9 @@
 ||wos.lv^
 ||shence.wosai-inc.com^
 ||woshiyunying.com^
+||auth.wosms.cn^
 ||wosork.com^
+||opencloud.wostore.cn^
 ||wotto.cn^
 ||wotufeiye.com^
 ||woujoami.com^
@@ -62713,6 +62718,8 @@
 ||zigzag.vn^
 ||ziig.com.cn^
 ||zijaipse.com^
+||ads5-normal-hl.zijieapi.com^
+||ads3-normal-hl.zijieapi.com^
 ||zijuejueta.com^
 ||zikroarg.com^
 ||zim-zim-zam.com^
