@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20230507165056
+#VER=20230507165731
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=87123
+#TOTAL_LINES=87127
 0001.best
 000dn.com
 kwcdn.000dn.com
@@ -503,6 +503,7 @@ news.push.126.net
 pg-ad-b2.ws.126.net
 pimg1.126.net
 webstat.ws.126.net
+ads.music.126.net
 iadmat.nosdn.127.net
 pg-ad-b1.nosdn.127.net
 yt-adp.nosdn.127.net
@@ -1522,7 +1523,6 @@ huid.ad.360.cn
 huodong.ios.shouji.360.cn
 huodong.mobilem.360.cn
 iad.e.360.cn
-jiagu.360.cn
 leak.360.cn
 mbs.hao.360.cn
 msg.shouji.360.cn
@@ -10712,6 +10712,7 @@ cqz6fn6aox.aporia.com
 analytics.apotekhjartat.se
 app-adforce.jp
 devtest.app-birdy.com
+app-measurement-cn.com
 app-measurement.com
 app-trackings.com
 prism.app-us1.com
@@ -13264,6 +13265,7 @@ qapm.baidu.com
 sclick.baidu.com
 share.baidu.com
 sjh.baidu.com
+sp1.baidu.com
 sp3.baidu.com
 static1.searchbox.baidu.com
 tcbox.baidu.com
@@ -14154,7 +14156,7 @@ tob-cms.bj.bcebos.com
 vv84.bj.bcebos.com
 wenku-cms.bj.bcebos.com
 xsapp.cdn.bcebos.com
-staticsns.cdn.bcebos.com
+mobads-pre-config.cdn.bcebos.com
 httpdns.bcelive.com
 bcenuvkijj.com
 bcf8fbea24.com
@@ -21164,6 +21166,7 @@ cm-trk3.com
 cm-trk5.com
 campaigns.cm.be
 cmadserver.de
+mbads.paas.cmbchina.com
 cmbestsrv.com
 cmblom.cn
 cmbpdk.cn
@@ -24485,6 +24488,7 @@ e.darpro-solutions.com
 info.dartcontrols.com
 dartg665moetyor.com
 dartonim.com
+dartsearch-cn.net
 ch0p.darty.com
 mczpco.darty.com
 darvorn.com
@@ -34085,6 +34089,7 @@ gglx.me
 ggmm777.com
 e.ggouh.com
 m.ggouh.com
+ggpht.cn
 ggqnre.xyz
 ggrhsx.cn
 nochange.ggsafe.com
@@ -34923,6 +34928,7 @@ gccode.gongchang.com
 sdn.gongkao.hn.cn
 gongwuyuan.name
 gongxifc.com
+gongyichuangyi.net
 m.gongzhilian.com.cn
 goniforas.com
 gonpc.com
@@ -35018,12 +35024,17 @@ attributiontrackingga.googlecode.com
 myscoop-tracking.googlecode.com
 trakksocial.googlecode.com
 googlecommerce.com
+googleflights-cn.net
+googleminiapps.cn
 googleoptimize-cn.com
 googleoptimize.com
 badad.googleplex.com
 googlerank.info
+googlers-cn.com
 googles.video
+googlesandbox-cn.com
 lzzht.googlespider1.cn
+googlesyndication-cn.com
 buttons.googlesyndication.com
 googlesyndication.com
 pagead2.googlesyndication.com
@@ -35034,6 +35045,7 @@ afs.googlesyndication.com
 googletagmanager-cn.com
 googletagmanager.com
 www.googletagmanager.com
+googletagservices-cn.com
 googletagservices.com
 www.googletagservices.com
 displayads-formats.googleusercontent.com
@@ -35953,6 +35965,7 @@ gvisit.com
 tracking.gvm.com.tw
 gvmojhugkiud.com
 gvqrclx.cn
+gvt1-cn.com
 gg.gw032.com
 gwaaz.cn
 gwallet.com
@@ -37174,7 +37187,7 @@ stats.heyoya.com
 heystaks.com
 mdp-appconf-sg.heytapdl.com
 adsfs-sdkconfig.heytapimage.com
-heytapimage.com
+img-c.heytapimage.com
 adx.ads.heytapmobi.com
 b1-data.ads.heytapmobi.com
 b2-data.ads.heytapmobi.com
@@ -45672,7 +45685,6 @@ ldisgmftfxanwb.com
 ldkdierujjfmcn.club
 pv.ldlwdsx.com
 www.ldlwdsx.com
-ldmnq.com
 storeen.ldmnq.com
 sp.ldnews.com
 ldnlyap.com
@@ -48284,17 +48296,9 @@ maiptica.com
 s.maipubao.cn
 mairbeets.com
 mairdumont.com
-mairuan.cn
-www.mairuan.cn
 hypersnap.mairuan.com
 logoshejishi.mairuan.com
-mairuan.com
-www.mairuan.com
 xia.mairuan.com
-mairuan.com.cn
-www.mairuan.com.cn
-mairuan.net
-www.mairuan.net
 mairuanwang.com
 www.mairuanwang.com
 mairunoa.xyz
@@ -72436,7 +72440,6 @@ adashx.m.taobao.com
 adashx4ae.ut.taobao.com
 adashx4yt.m.taobao.com
 adashxgc.ut.taobao.com
-amdc.m.taobao.com
 amdcopen.m.taobao.com
 audid-api.taobao.com
 bcfeedback.taobao.com
@@ -83266,6 +83269,7 @@ xhlzokzxoxykxf.com
 xhmybanjia.cn
 xhqg.xyz
 xhr0.xyz
+ads-img-al.xhscdn.com
 xhsrw.xyz
 c.xhsxgmt.cn
 s.xhsxgmt.cn

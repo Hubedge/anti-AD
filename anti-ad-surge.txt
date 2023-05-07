@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20230507165055
+#VER=20230507165731
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=76969
+#TOTAL_LINES=76983
 DOMAIN-SUFFIX,0001.best
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
@@ -456,6 +456,7 @@ DOMAIN-SUFFIX,news.push.126.net
 DOMAIN-SUFFIX,pg-ad-b2.ws.126.net
 DOMAIN-SUFFIX,pimg1.126.net
 DOMAIN-SUFFIX,webstat.ws.126.net
+DOMAIN-SUFFIX,ads.music.126.net
 DOMAIN-SUFFIX,iadmat.nosdn.127.net
 DOMAIN-SUFFIX,pg-ad-b1.nosdn.127.net
 DOMAIN-SUFFIX,yt-adp.nosdn.127.net
@@ -1378,13 +1379,13 @@ DOMAIN-SUFFIX,huid.ad.360.cn
 DOMAIN-SUFFIX,huodong.ios.shouji.360.cn
 DOMAIN-SUFFIX,huodong.mobilem.360.cn
 DOMAIN-SUFFIX,iad.e.360.cn
-DOMAIN-SUFFIX,jiagu.360.cn
 DOMAIN-SUFFIX,leak.360.cn
 DOMAIN-SUFFIX,mbs.hao.360.cn
 DOMAIN-SUFFIX,msg.shouji.360.cn
 DOMAIN-SUFFIX,msoftdl.360.cn
 DOMAIN-SUFFIX,openbox.mobilem.360.cn
 DOMAIN-SUFFIX,qstore.inner.api.sj.360.cn
+DOMAIN-SUFFIX,service.jiagu.360.cn
 DOMAIN-SUFFIX,shake.360.cn
 DOMAIN-SUFFIX,shake.f.360.cn
 DOMAIN-SUFFIX,show.look.360.cn
@@ -8222,6 +8223,7 @@ DOMAIN-SUFFIX,cqz6fn6aox.aporia.com
 DOMAIN-SUFFIX,analytics.apotekhjartat.se
 DOMAIN-SUFFIX,app-adforce.jp
 DOMAIN-SUFFIX,devtest.app-birdy.com
+DOMAIN-SUFFIX,app-measurement-cn.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,app-trackings.com
 DOMAIN-SUFFIX,prism.app-us1.com
@@ -10453,6 +10455,7 @@ DOMAIN-SUFFIX,qapm.baidu.com
 DOMAIN-SUFFIX,sclick.baidu.com
 DOMAIN-SUFFIX,share.baidu.com
 DOMAIN-SUFFIX,sjh.baidu.com
+DOMAIN-SUFFIX,sp1.baidu.com
 DOMAIN-SUFFIX,sp3.baidu.com
 DOMAIN-SUFFIX,static1.searchbox.baidu.com
 DOMAIN-SUFFIX,tcbox.baidu.com
@@ -11270,7 +11273,7 @@ DOMAIN-SUFFIX,tob-cms.bj.bcebos.com
 DOMAIN-SUFFIX,vv84.bj.bcebos.com
 DOMAIN-SUFFIX,wenku-cms.bj.bcebos.com
 DOMAIN-SUFFIX,xsapp.cdn.bcebos.com
-DOMAIN-SUFFIX,staticsns.cdn.bcebos.com
+DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com
 DOMAIN-SUFFIX,httpdns.bcelive.com
 DOMAIN-SUFFIX,bcenuvkijj.com
 DOMAIN-SUFFIX,bcf8fbea24.com
@@ -17707,6 +17710,7 @@ DOMAIN-SUFFIX,cm-trk3.com
 DOMAIN-SUFFIX,cm-trk5.com
 DOMAIN-SUFFIX,campaigns.cm.be
 DOMAIN-SUFFIX,cmadserver.de
+DOMAIN-SUFFIX,mbads.paas.cmbchina.com
 DOMAIN-SUFFIX,cmbestsrv.com
 DOMAIN-SUFFIX,cmblom.cn
 DOMAIN-SUFFIX,cmbpdk.cn
@@ -20372,6 +20376,7 @@ DOMAIN-SUFFIX,e.darpro-solutions.com
 DOMAIN-SUFFIX,info.dartcontrols.com
 DOMAIN-SUFFIX,dartg665moetyor.com
 DOMAIN-SUFFIX,dartonim.com
+DOMAIN-SUFFIX,dartsearch-cn.net
 DOMAIN-SUFFIX,ch0p.darty.com
 DOMAIN-SUFFIX,mczpco.darty.com
 DOMAIN-SUFFIX,darvorn.com
@@ -29215,6 +29220,7 @@ DOMAIN-SUFFIX,gglx.me
 DOMAIN-SUFFIX,ggmm777.com
 DOMAIN-SUFFIX,e.ggouh.com
 DOMAIN-SUFFIX,m.ggouh.com
+DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,ggqnre.xyz
 DOMAIN-SUFFIX,ggrhsx.cn
 DOMAIN-SUFFIX,ggsafe.com
@@ -30015,6 +30021,7 @@ DOMAIN-SUFFIX,gccode.gongchang.com
 DOMAIN-SUFFIX,sdn.gongkao.hn.cn
 DOMAIN-SUFFIX,gongwuyuan.name
 DOMAIN-SUFFIX,gongxifc.com
+DOMAIN-SUFFIX,gongyichuangyi.net
 DOMAIN-SUFFIX,m.gongzhilian.com.cn
 DOMAIN-SUFFIX,goniforas.com
 DOMAIN-SUFFIX,gonpc.com
@@ -30101,15 +30108,21 @@ DOMAIN-SUFFIX,attributiontrackingga.googlecode.com
 DOMAIN-SUFFIX,myscoop-tracking.googlecode.com
 DOMAIN-SUFFIX,trakksocial.googlecode.com
 DOMAIN-SUFFIX,googlecommerce.com
+DOMAIN-SUFFIX,googleflights-cn.net
+DOMAIN-SUFFIX,googleminiapps.cn
 DOMAIN-SUFFIX,googleoptimize-cn.com
 DOMAIN-SUFFIX,googleoptimize.com
 DOMAIN-SUFFIX,badad.googleplex.com
 DOMAIN-SUFFIX,googlerank.info
+DOMAIN-SUFFIX,googlers-cn.com
 DOMAIN-SUFFIX,googles.video
+DOMAIN-SUFFIX,googlesandbox-cn.com
 DOMAIN-SUFFIX,lzzht.googlespider1.cn
+DOMAIN-SUFFIX,googlesyndication-cn.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager-cn.com
 DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,googletagservices-cn.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,displayads-formats.googleusercontent.com
 DOMAIN-SUFFIX,googlevads-cn.com
@@ -30955,6 +30968,7 @@ DOMAIN-SUFFIX,gvisit.com
 DOMAIN-SUFFIX,tracking.gvm.com.tw
 DOMAIN-SUFFIX,gvmojhugkiud.com
 DOMAIN-SUFFIX,gvqrclx.cn
+DOMAIN-SUFFIX,gvt1-cn.com
 DOMAIN-SUFFIX,gg.gw032.com
 DOMAIN-SUFFIX,gwaaz.cn
 DOMAIN-SUFFIX,gwallet.com
@@ -32082,7 +32096,8 @@ DOMAIN-SUFFIX,heymatic.com
 DOMAIN-SUFFIX,stats.heyoya.com
 DOMAIN-SUFFIX,heystaks.com
 DOMAIN-SUFFIX,mdp-appconf-sg.heytapdl.com
-DOMAIN-SUFFIX,heytapimage.com
+DOMAIN-SUFFIX,adsfs-sdkconfig.heytapimage.com
+DOMAIN-SUFFIX,img-c.heytapimage.com
 DOMAIN-SUFFIX,adx.ads.heytapmobi.com
 DOMAIN-SUFFIX,b1-data.ads.heytapmobi.com
 DOMAIN-SUFFIX,b2-data.ads.heytapmobi.com
@@ -39722,7 +39737,7 @@ DOMAIN-SUFFIX,ldimnveryldgitwe.xyz
 DOMAIN-SUFFIX,ldisgmftfxanwb.com
 DOMAIN-SUFFIX,ldkdierujjfmcn.club
 DOMAIN-SUFFIX,ldlwdsx.com
-DOMAIN-SUFFIX,ldmnq.com
+DOMAIN-SUFFIX,storeen.ldmnq.com
 DOMAIN-SUFFIX,sp.ldnews.com
 DOMAIN-SUFFIX,ldnlyap.com
 DOMAIN-SUFFIX,ldpiecesonth.xyz
@@ -42038,10 +42053,9 @@ DOMAIN-SUFFIX,maiptica.com
 DOMAIN-SUFFIX,s.maipubao.cn
 DOMAIN-SUFFIX,mairbeets.com
 DOMAIN-SUFFIX,mairdumont.com
-DOMAIN-SUFFIX,mairuan.cn
-DOMAIN-SUFFIX,mairuan.com
-DOMAIN-SUFFIX,mairuan.com.cn
-DOMAIN-SUFFIX,mairuan.net
+DOMAIN-SUFFIX,hypersnap.mairuan.com
+DOMAIN-SUFFIX,logoshejishi.mairuan.com
+DOMAIN-SUFFIX,xia.mairuan.com
 DOMAIN-SUFFIX,mairuanwang.com
 DOMAIN-SUFFIX,mairunoa.xyz
 DOMAIN-SUFFIX,tk.maison123.com
@@ -63498,7 +63512,6 @@ DOMAIN-SUFFIX,adashx.m.taobao.com
 DOMAIN-SUFFIX,adashx4ae.ut.taobao.com
 DOMAIN-SUFFIX,adashx4yt.m.taobao.com
 DOMAIN-SUFFIX,adashxgc.ut.taobao.com
-DOMAIN-SUFFIX,amdc.m.taobao.com
 DOMAIN-SUFFIX,amdcopen.m.taobao.com
 DOMAIN-SUFFIX,audid-api.taobao.com
 DOMAIN-SUFFIX,bcfeedback.taobao.com
@@ -73471,6 +73484,7 @@ DOMAIN-SUFFIX,xhlzokzxoxykxf.com
 DOMAIN-SUFFIX,xhmybanjia.cn
 DOMAIN-SUFFIX,xhqg.xyz
 DOMAIN-SUFFIX,xhr0.xyz
+DOMAIN-SUFFIX,ads-img-al.xhscdn.com
 DOMAIN-SUFFIX,xhsrw.xyz
 DOMAIN-SUFFIX,c.xhsxgmt.cn
 DOMAIN-SUFFIX,s.xhsxgmt.cn
