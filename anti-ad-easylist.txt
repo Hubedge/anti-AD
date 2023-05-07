@@ -1,9 +1,9 @@
 !Title: anti-AD
-!Version: 20230507164756
+!Version: 20230507165055
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 73338
+!Total lines: 73343
 @@||5471782.fls.doubleclick.net^
 @@||939394.xyz^
 @@||a.adwolf.ru^
@@ -152,7 +152,6 @@
 @@||ads.pinterest.com^
 @@||ads.spotify.com^
 @@||ads.tdbank.com^
-@@||ads.tiktok.com^
 @@||ads.twitter.com^
 @@||ads.vk.com^
 @@||ui.ads.microsoft.com^
@@ -644,7 +643,6 @@
 ||10desires.com^
 ||10eafd09d6.com^
 ||10fbb07a4b0.se^
-||vaserviece.10jqka.com.cn^
 ||10kasbkda100.monster^
 ||10kjdbfksdf10.monster^
 ||10kjdbkfsd0.monster^
@@ -5343,6 +5341,7 @@
 ||adttt.com^
 ||e.aduiz.com^
 ||m.aduiz.com^
+||adukwai.com^
 ||adulatorycrappyghastly.com^
 ||adulatorydigestionmanicure.com^
 ||promo.adult-torrent.com^
@@ -21099,6 +21098,8 @@
 ||divolution.com^
 ||divorceseed.com^
 ||divscripty.net^
+||ad-display.diwodiwo.xyz^
+||ad-channel.diwodiwo.xyz^
 ||diwuyu.com^
 ||web.news.dixiefashion.com^
 ||diximedia.es^
@@ -22090,6 +22091,7 @@
 ||dustytownsplatitude.com^
 ||dustywave.com^
 ||dustywrenchdesigned.com^
+||dutils.com^
 ||dutorterraom.com^
 ||dutuo4.top^
 ||duwabchhdgkqc.com^
@@ -27998,6 +28000,9 @@
 ||gif1.gifi.fr^
 ||stats-messages.gifs.com^
 ||stats.gifs.com^
+||gdfp.gifshow.com^
+||log-sdk.gifshow.com^
+||ulog-sdk.gifshow.com^
 ||secure.gift2pair.com^
 ||tracker.giftd.ru^
 ||wh.giftd.tech^
@@ -34063,7 +34068,6 @@
 ||g3.iqilu.com^
 ||g4.iqilu.com^
 ||a.ckm.iqiyi.com^
-||act.vip.iqiyi.com^
 ||cupid.iqiyi.com^
 ||yuedu.iqiyi.com^
 ||c.uaa.iqiyi.com^
@@ -36080,7 +36084,6 @@
 ||stat-ssl.kakaku.com^
 ||sysmon.kakaku.com^
 ||stat-ssl.kakakumag.com^
-||short-video.kakamobi.cn^
 ||smart-789.kakamobi.cn^
 ||kaan.kakao.com^
 ||kyson.kakao.com^
@@ -51710,7 +51713,7 @@
 ||paopao3.qiyipic.com^
 ||paopaod.qiyipic.com^
 ||qiyou.com^
-||qiyukf.com^
+||nim.qiyukf.com^
 ||e.qiyunmuye.com^
 ||qizhao.com^
 ||8131.qizhihaotian.cn^
@@ -52034,6 +52037,9 @@
 ||openmsf.3g.qq.com^
 ||mark.l.qq.com^
 ||rlog.video.qq.com^
+||rdelivery.qq.com^
+||aedns.weixin.qq.com^
+||date.ab.qq.com^
 ||qq167.com^
 ||qq2ux.top^
 ||qq4g.cn^
@@ -53049,7 +53055,6 @@
 ||events.reddit.com^
 ||w3-reporting-nel.reddit.com^
 ||w3-reporting.reddit.com^
-||click.redditmail.com^
 ||events.redditmedia.com^
 ||reddleops.pro^
 ||reddsdainful.com^
